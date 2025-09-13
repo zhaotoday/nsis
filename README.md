@@ -11,6 +11,7 @@
 - [7z-build-nsis](https://github.com/myfreeer/7z-build-nsis)
 
 #### 文章
+- [Electron打包成win安装包并创建桌面快捷方式](https://zhuanlan.zhihu.com/p/1896166418514442083)
 - [NSIS 3.0.4.1：Windows安装程序制作详解与实战](https://blog.csdn.net/weixin_36213081/article/details/148335652)
 - [NSIS：Windows应用程序打包与安装制作工具详解](https://blog.csdn.net/weixin_31938351/article/details/147708752)
 - [NSIS桌面客户端应用打包工具](https://zhuanlan.zhihu.com/p/20794790454)
