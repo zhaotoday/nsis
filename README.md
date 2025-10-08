@@ -2,6 +2,9 @@
 - [NSIS Fans](https://www.nsisfans.com/)
 - [NSIS](https://github.com/kichik/nsis)
 
+#### 产品
+- [利洽 NSIS 模板](http://leeqia.com/nsniuniuskin/template/)
+
 #### 工具
 - [DuiLib_DuiEditor](https://github.com/xfcanyue/DuiLib_DuiEditor)
 - [Niuniu_NSIS 模板](http://www.leeqia.com/nsniuniuskin/template/)
