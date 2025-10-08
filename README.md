@@ -5,7 +5,7 @@
 #### 产品
 - [利洽 NSIS 模板](http://leeqia.com/nsniuniuskin/template/)
 
-#### 工具
+#### 开源
 - [DuiLib_DuiEditor](https://github.com/xfcanyue/DuiLib_DuiEditor)
 - [Niuniu_NSIS 模板](http://www.leeqia.com/nsniuniuskin/template/)
 - [DuiLib_Ultimate](https://github.com/qdtroy/DuiLib_Ultimate)
@@ -14,6 +14,7 @@
 - [7z-build-nsis](https://github.com/myfreeer/7z-build-nsis)
 - [vscode-nsis](https://github.com/idleberg/vscode-nsis)
 - [NSIS-UI-Plugin](https://github.com/winsoft666/NSIS-UI-Plugin)
+- [nsNiuniuSkin](https://github.com/leeqia/nsNiuniuSkin)
 
 #### 文章
 - [Electron打包成win安装包并创建桌面快捷方式](https://zhuanlan.zhihu.com/p/1896166418514442083)
