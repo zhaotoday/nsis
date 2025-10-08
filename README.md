@@ -12,6 +12,7 @@
 - [NSetup](https://nsetup.cn/)
 - [node-makensis](https://github.com/idleberg/node-makensis)
 - [7z-build-nsis](https://github.com/myfreeer/7z-build-nsis)
+- [vscode-nsis](https://github.com/idleberg/vscode-nsis)
 
 #### 文章
 - [Electron打包成win安装包并创建桌面快捷方式](https://zhuanlan.zhihu.com/p/1896166418514442083)
