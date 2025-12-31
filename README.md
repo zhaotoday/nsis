@@ -43,6 +43,7 @@
 - [《duilib入门到精通》- duilib概述（duilib视频教程）](https://blog.csdn.net/duisharp/article/details/49803993)
 
 #### 视频教程
+- [NSIS+Duilib制作精美安装包](https://www.bilibili.com/video/BV1hAYNzaEwH/)
 - [[DuiLib] 1.DuiLib简易编译、使用教程](https://www.bilibili.com/video/BV1oy4y1t7TK/)
 - [[DuiLib] 2.DuiLib制作百度网盘登录界面](https://www.bilibili.com/video/BV1oV411n7aA/)
 
