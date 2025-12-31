@@ -17,6 +17,7 @@
 - [nsNiuniuSkin](https://github.com/leeqia/nsNiuniuSkin)
 
 #### 文章
+- [HHSoftwarePack](https://github.com/Chadwuo/HHSoftwarePack)
 - [Electron打包成win安装包并创建桌面快捷方式](https://zhuanlan.zhihu.com/p/1896166418514442083)
 - [NSIS 3.0.4.1：Windows安装程序制作详解与实战](https://blog.csdn.net/weixin_36213081/article/details/148335652)
 - [NSIS：Windows应用程序打包与安装制作工具详解](https://blog.csdn.net/weixin_31938351/article/details/147708752)
