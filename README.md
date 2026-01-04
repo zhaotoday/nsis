@@ -6,6 +6,7 @@
 - [利洽 NSIS 模板](http://leeqia.com/nsniuniuskin/template/)
 
 #### 开源
+- [makensis-action](https://github.com/joncloud/makensis-action)
 - [nsis-tauri-utils](https://github.com/tauri-apps/nsis-tauri-utils)
 - [DuiLib_DuiEditor](https://github.com/xfcanyue/DuiLib_DuiEditor)
 - [Niuniu_NSIS 模板](http://www.leeqia.com/nsniuniuskin/template/)
